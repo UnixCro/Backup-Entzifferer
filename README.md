@@ -2,7 +2,7 @@
 
 Wenn Sie schauen möchten, wann & welche Backups von Apple Geräten auf Ihrem Mac Computer sich befinden, eignet sich dieses Skript zur Entzifferung.
 
-Das einzige was Sie tun müssen ist
+Das einzige was Sie tun müssen ist dies ins Terminal eingeben
 
 open ~/Library/Application\ Support/MobileSync
 
