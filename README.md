@@ -4,7 +4,7 @@ Wenn Sie schauen möchten, wann & welche Backups von Apple Geräten auf Ihrem Ma
 
 Das einzige was Sie tun müssen ist dies ins Terminal eingeben
 
-open ~/Library/Application\ Support/MobileSync
+`open ~/Library/Application\ Support/MobileSync`
 
 Jetzt sollten Sie einige Ordner sehen, die eine bestimmte Kennung besitzen. Öffnen Sie einen Ordner und verschieben Sie die "Info.plist" in Ihr Benutzerverzeichnis.
 
